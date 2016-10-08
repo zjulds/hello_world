@@ -4,4 +4,5 @@ this is just a test
 using namespace std;
 main(){
 cout<< "hello!world!";
+cout<<"";
 }
